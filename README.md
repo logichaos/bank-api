@@ -9,6 +9,8 @@
 
 The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
 
+For detailed information about the security techniques implemented in this project and how to apply them in your own projects, see the [Security Documentation](SECURITY.md).
+
 ## Compliance
 
 The API complies to:
